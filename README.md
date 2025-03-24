@@ -55,7 +55,7 @@ Lưu bảng (Ctrl + S), đặt tên "lopSV" → OK.
 ![Screenshot 2025-03-20 212658](https://github.com/user-attachments/assets/9b3e7687-ce22-4773-89ae-70cc195f7e28)  
 
 Ảnh 8:  
-Thao tác lập bảng "Giaovien": 
+Thao tác lập bảng "Giaovien":   
 Chuột phải Tables → New Table.  
 Bảng "Giaovien" hiện có các cột:  
 - Magv (varchar(50), khóa chính).  
