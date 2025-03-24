@@ -12,7 +12,7 @@ Nhấn OK để tạo cơ sở dữ liệu.
 ![Screenshot 2025-03-20 145500](https://github.com/user-attachments/assets/c04a84fb-a426-46ca-9efe-0fb121922b31)  
 
 Ảnh 3:  
-Nhấp chuột phải vào Tables trong cơ sở dữ liệu QLSV → Chọn New → Table... để tạo bảng mới.  
+Nhấp chuột phải vào Tables trong cơ sở dữ liệu QLSV → Chọn New → Table... để tạo bảng mới.   
 ![Screenshot 2025-03-20 145625](https://github.com/user-attachments/assets/752ea619-5c04-4a68-87f2-24689448325e)  
 
 Ảnh 4:  
