@@ -82,7 +82,47 @@ Bảng "Khoa" hiện có các cột:
 - MaKhoa (varchar(50), khóa chính, không NULL).  
 - TenKhoa (nvarchar(50), cho phép NULL).  
 Lưu bảng (Ctrl + S), đặt tên Khoa → OK.  
-![Screenshot 2025-03-20 213306](https://github.com/user-attachments/assets/7c7ed54d-2580-48a8-9032-9f9aa18cc7ca)
+![Screenshot 2025-03-20 213306](https://github.com/user-attachments/assets/7c7ed54d-2580-48a8-9032-9f9aa18cc7ca)  
 
 ẢNh 11:  
+Thao tác lập bảng "monhoc":  
+Chuột phải Tables → New Table.  
+Bảng "monhoc" hiện có các cột:  
+- mamon (varchar(50), khóa chính, không NULL).  
+- tenmon (nvarchar(50), cho phép NULL).  
+- STC (int), cho phep NULL.  
+Lưu bảng (Ctrl + S), đặt tên monhoc → OK.
+![Screenshot 2025-03-20 213437](https://github.com/user-attachments/assets/cda3d0e8-bcfc-43f8-839a-a791f2422a7f)
+
+Ảnh 12:  
+Thao tác lập bảng "LopHP":  
+Chuột phải Tables → New Table.  
+Bảng "LopHP" hiện có các cột:  
+- MalopHP (varchar(50), khóa chính, không NULL).  
+- TenlopHP (nvarchar(50), cho phép NULL).  
+- HK (int), cho phép NULL.  
+- Mamon (varchar(50), cho phép NULL).  
+- magv (varchar(50), cho phép NULL).  
+Lưu bảng (Ctrl + S), đặt tên LopHP → OK.  
+![Screenshot 2025-03-20 213714](https://github.com/user-attachments/assets/656285c0-a9cb-4713-bb93-96fd71b016d9)
+
+Ảnh 13:  
+Thao tác lập bảng "DKMH":  
+Chuột phải Tables → New Table.  
+Bảng "DKMH" hiện có các cột:  
+- MalopHP (varchar(50), khóa chính, không NULL).  
+- Masv (varchar(50), khóa chính, không NULL).  
+- DiemTP (float), cho phép NULL.  
+- DiemThi (float), cho phép NULL.
+- phantramthi (float), cho phép NULL.  
+Lưu bảng (Ctrl + S), đặt tên DKMH → OK.  
+![Screenshot 2025-03-20 214141](https://github.com/user-attachments/assets/9c7f8841-90e2-4405-aa1a-234125e2830a)
+
+Ảnh 14:  
+- Chuột phải vào "Tables" trong Object Explorer.
+- Chọn "Refresh".  
+Điều này sẽ cập nhật danh sách các bảng hiện có trong cơ sở dữ liệu của bạn  
+
+
+
 
