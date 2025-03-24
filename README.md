@@ -119,9 +119,9 @@ Lưu bảng (Ctrl + S), đặt tên DKMH → OK.
 ![Screenshot 2025-03-20 214141](https://github.com/user-attachments/assets/9c7f8841-90e2-4405-aa1a-234125e2830a)
 
 Ảnh 14:  
-- Chuột phải vào "Tables" trong Object Explorer.
+- Chuột phải vào "Tables" trong Object Explorer.  
 - Chọn "Refresh".  
-Điều này sẽ cập nhật danh sách các bảng hiện có trong cơ sở dữ liệu của bạn.
+Điều này sẽ cập nhật danh sách các bảng hiện có trong cơ sở dữ liệu của bạn.  
 ![Screenshot 2025-03-20 151027](https://github.com/user-attachments/assets/ad1b6a6e-2cd8-4822-8856-fbe92b0c5e33)
 
 Ảnh 15:  
