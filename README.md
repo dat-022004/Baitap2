@@ -20,7 +20,7 @@ Thao tác lập bảng "sinhvien":
 Chuột phải Tables → New Table.  
 Bảng "sinhvien" có các cột:  
 - Masv (varchar(13)) – Khóa chính
-- Hoten (varchar(50))  
+- Hoten (nvarchar(50))  
 - Ngaysinh (date)  
 Lưu bảng (Ctrl + S), đặt tên "sinhvien" → OK.  
 ![Screenshot 2025-03-20 150449](https://github.com/user-attachments/assets/69b65491-ad5b-4e17-8b78-787ed39502db)  
