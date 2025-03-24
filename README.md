@@ -16,42 +16,42 @@ Nhấp chuột phải vào Tables trong cơ sở dữ liệu QLSV → Chọn New
 ![Screenshot 2025-03-20 145625](https://github.com/user-attachments/assets/752ea619-5c04-4a68-87f2-24689448325e)  
 
 Ảnh 4:  
-Thao tác lập bảng "sinhvien": 
+Thao tác lập bảng "sinhvien":  
 Chuột phải Tables → New Table.  
 Bảng "sinhvien" có các cột:  
 Masv (varchar(13)) – Khóa chính
 Hoten (varchar(50))  
 Ngaysinh (date)  
-Nút Save được đánh dấu để lưu bảng  
+Lưu bảng (Ctrl + S), đặt tên "sinhvien" → OK.  
 ![Screenshot 2025-03-20 150449](https://github.com/user-attachments/assets/69b65491-ad5b-4e17-8b78-787ed39502db)  
 
 Ảnh 5:  
-Thao tác lập bảng "lop": 
+Thao tác lập bảng "lop":  
 Chuột phải Tables → New Table.  
 Bảng "Lop" có các cột:  
 Malop (varchar(50)) – Khóa chính  
 Tenlop (varchar(50))  
-Cửa sổ hiển thị bước lưu bảng với tên "Lop".  
+Lưu bảng (Ctrl + S), đặt tên "lop" → OK.   
 ![Screenshot 2025-03-20 150953](https://github.com/user-attachments/assets/eb929e71-6161-4e14-ba45-0ac9c64a4eb4)  
 
 Ảnh 6:  
-Thao tác lập bảng "lopsv": 
+Thao tác lập bảng "GVCN": 
 Chuột phải Tables → New Table.  
-Bảng lopsv có các cột:  
+Bảng "GVCN" có các cột:  
 Malop (varchar(50)) – Khóa chính  
 magv (varchar(50)) – Khóa chính  
 Hk (int) – Khóa chính  
-Bảng này sử dụng khóa chính gồm nhiều cột (Malop, magv, Hk).  
+Lưu bảng (Ctrl + S), đặt tên "GVCN" → OK.   
 ![Screenshot 2025-03-20 212645](https://github.com/user-attachments/assets/57f340a5-fe26-49e4-9f35-c82af453649b)  
 
 Ảnh 7:  
-Thao tác lập bảng "GVCN": 
+Thao tác lập bảng "lopSV":  
 Chuột phải Tables → New Table.  
-Bảng GVCN hiện có các cột:  
+Bảng "lopSV hiện có các cột:  
 Malop (varchar(50)) – Khóa chính  
 Masv (varchar(50)) – Khóa chính  
 Chucvu (nvarchar(50)) – Cho phép NULL  
-Bảng này sử dụng khóa chính gồm hai cột (Malop, Masv).  
+Lưu bảng (Ctrl + S), đặt tên "lopSV" → OK.   
 ![Screenshot 2025-03-20 212658](https://github.com/user-attachments/assets/9b3e7687-ce22-4773-89ae-70cc195f7e28)  
 
 Ảnh 8:  
