@@ -125,6 +125,29 @@ Lưu bảng (Ctrl + S), đặt tên DKMH → OK.
 ![Screenshot 2025-03-20 151027](https://github.com/user-attachments/assets/ad1b6a6e-2cd8-4822-8856-fbe92b0c5e33)
 
 Ảnh 15:  
+chuột phải trên cột trong SQL Server Management Studio (SSMS) và chọn "Check Constraints..." để kiểm tra hoặc chỉnh sửa để kiểm tra hoặc chỉnh sửa việc kiểm tra (CHECK CONSTRAINTS) của bảng.  
+![Screenshot 2025-03-20 214918](https://github.com/user-attachments/assets/3b6f0110-6913-4872-ae3c-7e817da5abee)  
+
+Ảnh 15:  
+Kiểm tra ràng buộc trong SQL Server Managementquản lý Ràngtrong SQL Server Management Studio (SSMS).  
+Ràng buộc kiểm tra CK_MonHoc được áp dụng _STC > = 1 andđược áp dụng với biểu thức:  
+STC >= 1 và STC <= 4 , STC cột giá trị đảm bảo chỉ nằm trong khoảng từ 1 đến 4.  
+![Screenshot 2025-03-20 214851](https://github.com/user-attachments/assets/00a89240-35e1-4014-96b8-300208bf5256)  
+
+Ảnh 16:  
+Trong ảnh, người dùng đang thiết lập khóa ngoại (Foreign Key) giữa hai bảng GVCN và Lop trong SQL Server Management Studio. Cụ thể, khóa ngoại FK_GVCN_Lop liên kết cột malop giữa hai bảng.  
+![Screenshot 2025-03-24 084015](https://github.com/user-attachments/assets/09f8d0e6-fd47-4349-8afe-ade7d50f9040)  
+
+ẢNh 17:  
+Lập khóa ngoại FK_GVCN_giaovien giữa bảng giaovien và GVCN trong SQL Server Management Studio. Cụ thể, cột magv trong bảng GVCN sẽ tham chiếu đến cột magv trong bảng giaovien.  
+![Screenshot 2025-03-24 084224](https://github.com/user-attachments/assets/5049ac3d-7963-4f19-8c9b-12a549db8317)  
+
+Ảnh 18: 
+Thiết lập khóa ngoại FK_lopsv_Sinhvien giữa bảng Sinhvien và lopsv trong SQL Server Management Studio. Cụ thể, cột masv trong bảng lopsv sẽ tham chiếu đến cột masv trong bảng Sinhvien.  
+![Screenshot 2025-03-24 084518](https://github.com/user-attachments/assets/2e80d397-910b-45d2-9702-aad33a0aece9)
+
+
+
 
 
 
