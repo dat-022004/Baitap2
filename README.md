@@ -142,9 +142,17 @@ Trong ảnh, người dùng đang thiết lập khóa ngoại (Foreign Key) gi�
 Lập khóa ngoại FK_GVCN_giaovien giữa bảng giaovien và GVCN trong SQL Server Management Studio. Cụ thể, cột magv trong bảng GVCN sẽ tham chiếu đến cột magv trong bảng giaovien.  
 ![Screenshot 2025-03-24 084224](https://github.com/user-attachments/assets/5049ac3d-7963-4f19-8c9b-12a549db8317)  
 
-Ảnh 18: 
+Ảnh 18:  
 Thiết lập khóa ngoại FK_lopsv_Sinhvien giữa bảng Sinhvien và lopsv trong SQL Server Management Studio. Cụ thể, cột masv trong bảng lopsv sẽ tham chiếu đến cột masv trong bảng Sinhvien.  
 ![Screenshot 2025-03-24 084518](https://github.com/user-attachments/assets/2e80d397-910b-45d2-9702-aad33a0aece9)
+
+Ảnh 19:  
+Đang chỉnh sửa khóa ngoại FK_GVCN_giaovien giữa bảng giaovien và GVCN trong SQL Server Management Studio. Cụ thể, cột magv trong bảng GVCN sẽ tham chiếu đến cột magv trong bảng giaovien.  
+![Screenshot 2025-03-24 084715](https://github.com/user-attachments/assets/a9c3f7d9-1612-4799-a877-9799711bea8c)  
+
+Ảnh 20:  
+Tạo khóa ngoại FK_bomon_khoa giữa bảng bomon và khoa trong SQL Server Management Studio. Cụ thể, cột makhoa trong bảng bomon sẽ tham chiếu đến cột makhoa trong bảng khoa.  
+![Screenshot 2025-03-24 084812](https://github.com/user-attachments/assets/71b6ba7b-ff4c-452a-9a3f-eb5c93adf025)  
 
 
 
