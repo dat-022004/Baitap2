@@ -170,7 +170,8 @@ Tạo khóa ngoại FK_bomon_khoa giữa bảng bomon và khoa trong SQL Server 
 Đang tạo cơ sở dữ liệu QLSV trong SQL Server với:  
 - Tệp chính (.mdf): D:\học tập\HQTCSDL\QLSV.mdf (64MB, tăng 64MB, không giới hạn).  
 - Tệp nhật ký (.ldf): D:\học tập\HQTCSDL\QLSV_log.ldf (64MB, tăng 64MB, không giới hạn).  
-![Screenshot 2025-03-24 170944](https://github.com/user-attachments/assets/f20446e6-2af3-4390-8b66-488d4501eba3)  
+![Screenshot 2025-03-24 170944](https://github.com/user-attachments/assets/925907dc-4be7-494b-81c9-fce261618bb3)
+
 
 Ảnh 25:  
 Tạo cơ sở dữ liệu cho bảng khoa bằndg lệnh SQL:  
