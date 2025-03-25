@@ -154,6 +154,87 @@ Thiết lập khóa ngoại FK_lopsv_Sinhvien giữa bảng Sinhvien và lopsv t
 Tạo khóa ngoại FK_bomon_khoa giữa bảng bomon và khoa trong SQL Server Management Studio. Cụ thể, cột makhoa trong bảng bomon sẽ tham chiếu đến cột makhoa trong bảng khoa.  
 ![Screenshot 2025-03-24 084812](https://github.com/user-attachments/assets/71b6ba7b-ff4c-452a-9a3f-eb5c93adf025)  
 
+Ảnh 21:  
+Đang tạo khóa ngoại FK_lophp_monhoc giữa bảng lophp và monhoc trong SQL Server Management Studio. Cụ thể, cột mamon trong bảng lophp sẽ tham chiếu đến cột mamon trong bảng monhoc.  
+![Screenshot 2025-03-24 084951](https://github.com/user-attachments/assets/89b74f62-5da6-493b-96c1-35d96835fb92)  
+
+Ảnh 22:  
+Đang tạo khóa ngoại FK_dkmh_lophp giữa bảng dkmh và lophp trong SQL Server Management Studio. Cụ thể, cột malophp trong bảng dkmh sẽ tham chiếu đến cột malophp trong bảng lophp.  
+![Screenshot 2025-03-24 085253](https://github.com/user-attachments/assets/1b662d27-8fbe-4ac2-a53b-3d3dd51e9754)  
+
+Ảnh 23:  
+Đang tạo khóa ngoại FK_dkmh_Sinhvien giữa bảng dkmh và Sinhvien trong SQL Server Management Studio. Cụ thể, cột masv trong bảng dkmh sẽ tham chiếu đến cột masv trong bảng Sinhvien.  
+![Screenshot 2025-03-24 085405](https://github.com/user-attachments/assets/bb633199-a133-443b-a3c1-a1c4f98c683b)  
+
+Ảnh 24:  
+Đang tạo cơ sở dữ liệu QLSV trong SQL Server với:  
+- Tệp chính (.mdf): D:\học tập\HQTCSDL\QLSV.mdf (64MB, tăng 64MB, không giới hạn).  
+- Tệp nhật ký (.ldf): D:\học tập\HQTCSDL\QLSV_log.ldf (64MB, tăng 64MB, không giới hạn).  
+![Screenshot 2025-03-24 170944](https://github.com/user-attachments/assets/f20446e6-2af3-4390-8b66-488d4501eba3)  
+
+Ảnh 25:  
+Tạo cơ sở dữ liệu cho bảng "khoa" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 171353](https://github.com/user-attachments/assets/4365dbff-17ff-4d4b-82af-ac3c507c9b0b)  
+
+Ảnh 26:  
+Tạo cơ sở dữ liệu cho bảng "Bomon" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 171513](https://github.com/user-attachments/assets/a697c4c3-dbeb-4745-96cf-44debe393712)  
+
+Ảnh 27:  
+Tạo cơ sở dữ liệu cho bảng "Giaovien" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 171544](https://github.com/user-attachments/assets/ffd4a1af-dea2-4108-bdf7-76e9f89ec476)  
+
+Ảnh 28:  
+Tạo cơ sở dữ liệu cho bảng "sinhvien" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 173738](https://github.com/user-attachments/assets/69fd2d56-8f02-4f83-b368-63bbac57d522)  
+
+Ảnh 29:  
+Tạo cơ sở dữ liệu cho bảng "GVCN" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 173844](https://github.com/user-attachments/assets/b45e2603-5017-468f-ac42-c00251009046)  
+
+Ảnh 30:  
+Tạo cơ sở dữ liệu cho bảng "LopSV" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 173902](https://github.com/user-attachments/assets/1c2c9498-99a7-499a-941f-8561dcf5b753)  
+
+Ảnh 31:  
+Tạo cơ sở dữ liệu cho bảng "MonHoc" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 173920](https://github.com/user-attachments/assets/507a3cab-83b8-4e50-bf54-6d3b71e35427)  
+
+Ảnh 32:  
+Tạo cơ sở dữ liệu cho bảng "LopHP" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 173945](https://github.com/user-attachments/assets/a3f5f624-d009-40dd-957f-d7270c4e0352)  
+
+Ảnh 33:  
+Tạo cơ sở dữ liệu cho bảng "DKMH" bằndg lệnh SQL:  
+![Screenshot 2025-03-24 174009](https://github.com/user-attachments/assets/f50705d2-6309-431d-8942-7480f6eab579)  
+
+Ảnh 34:  
+Sau khi tạo song các bảng bằng lệnh SQL ta thu được các bảng dống hệt với các bảng toạ bằng thao tác đồ hoạ.  
+![Screenshot 2025-03-24 174032](https://github.com/user-attachments/assets/258d1566-b5e7-4770-b432-907c0f51423c)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
