@@ -174,39 +174,39 @@ Tạo khóa ngoại FK_bomon_khoa giữa bảng bomon và khoa trong SQL Server 
 
 
 Ảnh 25:  
-Tạo cơ sở dữ liệu cho bảng khoa bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng khoa bằng lệnh SQL:  
 ![Screenshot 2025-03-24 171353](https://github.com/user-attachments/assets/4365dbff-17ff-4d4b-82af-ac3c507c9b0b)  
 
 Ảnh 26:  
-Tạo cơ sở dữ liệu cho bảng Bomon bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng Bomon bằng lệnh SQL:  
 ![Screenshot 2025-03-24 171513](https://github.com/user-attachments/assets/a697c4c3-dbeb-4745-96cf-44debe393712)  
 
 Ảnh 27:  
-Tạo cơ sở dữ liệu cho bảng Giaovien bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng Giaovien bằng lệnh SQL:  
 ![Screenshot 2025-03-24 171544](https://github.com/user-attachments/assets/ffd4a1af-dea2-4108-bdf7-76e9f89ec476)  
 
 Ảnh 28:  
-Tạo cơ sở dữ liệu cho bảng sinhvien bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng sinhvien bằng lệnh SQL:  
 ![Screenshot 2025-03-24 173738](https://github.com/user-attachments/assets/69fd2d56-8f02-4f83-b368-63bbac57d522)  
 
 Ảnh 29:  
-Tạo cơ sở dữ liệu cho bảng GVCN bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng GVCN bằng lệnh SQL:  
 ![Screenshot 2025-03-24 173844](https://github.com/user-attachments/assets/b45e2603-5017-468f-ac42-c00251009046)  
 
 Ảnh 30:  
-Tạo cơ sở dữ liệu cho bảng LopSV bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng LopSV bằng lệnh SQL:  
 ![Screenshot 2025-03-24 173902](https://github.com/user-attachments/assets/1c2c9498-99a7-499a-941f-8561dcf5b753)  
 
 Ảnh 31:  
-Tạo cơ sở dữ liệu cho bảng MonHoc bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng MonHoc bằng lệnh SQL:  
 ![Screenshot 2025-03-24 173920](https://github.com/user-attachments/assets/507a3cab-83b8-4e50-bf54-6d3b71e35427)  
 
 Ảnh 32:  
-Tạo cơ sở dữ liệu cho bảng LopHP bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng LopHP bằng lệnh SQL:  
 ![Screenshot 2025-03-24 173945](https://github.com/user-attachments/assets/a3f5f624-d009-40dd-957f-d7270c4e0352)  
 
 Ảnh 33:  
-Tạo cơ sở dữ liệu cho bảng DKMH bằndg lệnh SQL:  
+Tạo cơ sở dữ liệu cho bảng DKMH bằng lệnh SQL:  
 ![Screenshot 2025-03-24 174009](https://github.com/user-attachments/assets/f50705d2-6309-431d-8942-7480f6eab579)  
 
 Ảnh 34:  
