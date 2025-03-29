@@ -28,6 +28,7 @@ HÌNH THỨC LÀM BÀI:
 7. upload 2 file  bai_tap_3_schema.sql và bai_tap_3_data.sql lên repository.  
 8. nhớ commit để save nội dung file bai_tap3.md  
 
------------------------------------------ Bài Làm -----------------------------------------  
+----------------------------------------- Bài Làm ----------------------------------------- 
 
-Ảnh 1
+Ảnh 1:
+![Screenshot 2025-03-28 153554](https://github.com/user-attachments/assets/4ab70e85-3d24-4b42-a6a0-37557a0dca22)
